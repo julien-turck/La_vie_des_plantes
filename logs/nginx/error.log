@@ -1,0 +1,1 @@
+2024/06/04 13:40:50 [error] 3752#9212: *22374 WSARecv() failed (10054: FormatMessage() error:(15100)) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php?action=wp_1_wc_regenerate_images&nonce=97db6c3cf4 HTTP/1.0", upstream: "fastcgi://127.0.0.1:10008", host: "test.local"
